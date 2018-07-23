@@ -1,0 +1,25 @@
+* Update files cho cac block khác:
+- assets/js/app.js
+- assets/js/app.min.js
+- assets/js/toastr.min.js
+- assets/css/toastr.min.css
+- includes/config.php
+- includes/product.php
+- includes/api.php
+- page-templates/page-post.php
+- page-templates/page-sale.php
+- page-templates/page-sign.php
+- page-templates/page-project.php
+- libs/theme_functions.php
+- libs/js/scripts.js
+- vc-shortcodes/shortcodes/carousel-products.php
+- vc-shortcodes/shortcodes/carousel-products2.php
+- ajax.php
+- functions.php
+- template-new.php
+- template-vip.php
+- template-search.php
+- template-sidebarsearch.php
+- single-product.php
+- single-project.php
+- taxonomy-project_category.php
