@@ -23,3 +23,4 @@
 - single-product.php
 - single-project.php
 - taxonomy-project_category.php
+* xong phan tren
